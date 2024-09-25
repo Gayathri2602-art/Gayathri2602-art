@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI Enthusiast</h3>
 
 <p align="left"> 
-  <img src="[https://komarev.com/ghpvc/?username=gayathri2602-art&label=Profile%20views&color=0e75b6&style=flat](https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg)" alt="gayathri2602-art" /> 
+  <img src="[https://komarev.com/ghpvc/?username=gayathri2602-art&label=Profile%20views&color=0e75b6&style=flat](https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg)](https://github.com/Gayathri2602-art/Gayathri2602-art/blob/main/cartoon.jpg)" alt="gayathri2602-art" /> 
 </p>
 
 - 🌱 I’m currently learning **Generative AI**
