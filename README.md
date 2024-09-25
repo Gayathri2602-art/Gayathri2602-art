@@ -2,6 +2,7 @@
 <h3 align="center">A passionate AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri2602-art&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri2602-art" /> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Gayathri2602-art/Gayathri2602-art/refs/heads/main/cartoon.jpg">
 
 - 🌱 I’m currently learning **Generative AI**
 
