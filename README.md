@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcyODgxNzcsIm5iZiI6MTcyNzI4Nzg3NywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI1VDE4MTExN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3NDcyMmQ0ZTRmYjZhMDJkMDU3MzE0MTZhYzM4MDQzMThjYTJiOWZhNmMwZjFiYjdlY2NiYjYwMjg4YzkwMWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.EK641UlBzyJXr4s2guymdCOtz3BlBRZkSUGlcjIRuik))]
+[![MasterHead](https://raw.githubusercontent.com/Gayathri2602-art/Gayathri2602-art/refs/heads/main/banner.png)
 <h1 align="center">Hi 👋, I'm Gayathri VR</h1>
 <h3 align="center">A passionate AI Enthusiast</h3>
 
